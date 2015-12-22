@@ -10,6 +10,7 @@
 #import <Foundation/Foundation.h>
 
 
+/**  使用Des3对字符串加密 */
 @interface CLDes3Encrypt : NSObject
 {
     size_t movedBytes ;
