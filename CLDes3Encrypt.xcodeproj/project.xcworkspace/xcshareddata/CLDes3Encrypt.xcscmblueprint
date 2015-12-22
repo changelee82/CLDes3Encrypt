@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "210656683D3A10CD97EAC7833F61940188D4E82A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "4cc2c789-f6e4-2548-9749-114e8682f433++1218" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4cc2c789-f6e4-2548-9749-114e8682f433++1218" : 0,
+    "210656683D3A10CD97EAC7833F61940188D4E82A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FAE0EF01-E68C-4DEA-823B-FAD3F770491D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4cc2c789-f6e4-2548-9749-114e8682f433++1218" : "CLDes3Encrypt\/CLDes3Encrypt\/GTMBase64\/",
+    "210656683D3A10CD97EAC7833F61940188D4E82A" : "CLDes3Encrypt\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CLDes3Encrypt",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CLDes3Encrypt.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/changelee82\/CLDes3Encrypt.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "210656683D3A10CD97EAC7833F61940188D4E82A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.1.33\/svn\/IOS-ChaChong",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4cc2c789-f6e4-2548-9749-114e8682f433++1218"
+    }
+  ]
+}
